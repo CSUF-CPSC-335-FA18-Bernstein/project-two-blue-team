@@ -30,6 +30,20 @@ void randomize_list(string_vector & strings) {
 //-----------------------------------------------------------------------------
 void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
   // TODO: implement this function, then delete this comment
+  
+  while(start <= mid && mid+1 <= end){
+    if(strings[start] < strings[mid+1]){
+      start++;
+    }
+    else(strings[start] >= strings[mid+1]){
+      string temp = strings[mid+1];
+      strings.erase(strings.begin(),mid);
+      strings.emplace(strings.begin()+start, temp);
+      start++;
+      mid++;
+    }
+  }
+
   return;
 }
 
@@ -41,6 +55,18 @@ void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
 //-----------------------------------------------------------------------------
 void mergesort(string_vector & strings, size_t start, size_t end) {
   // TODO: implement this function, then delete this comment
+
+  if(start+1 == end){               // Base Case; cannot divide a list of size 1
+    return; 
+  }
+
+  size_t mid = (start + end)/2;     // marks where we will split the list
+
+  mergesort(strings, start, mid);   // mergesort left
+  mergesort(strings, mid+1, end);   // mergesort right
+
+  merge(strings, start, mid, end);
+
   return;
 }
 
