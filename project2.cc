@@ -24,7 +24,19 @@ using namespace std;
 //-----------------------------------------------------------------------------
 void randomize_list(string_vector & strings) {
   // TODO: implement this function, then delete this comment
-  return;
+  	int randNum, r;
+       	srand(time(NULL)); 
+	//Random num from 1-1000
+	//What should be the max num here?
+	randNum = rand() % 1000 + 1; 
+
+	for(int i = 0; i < strings.size()-1; i++)
+	{
+		r = randNum;
+		swap(strings[i],strings[r]);
+	}
+       
+ return;
 }
 
 //-----------------------------------------------------------------------------
