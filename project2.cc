@@ -49,46 +49,9 @@ void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
       strings.emplace(strings.begin()+start, temp);
       start++;
       mid++;
+   
     }
   }
-
-
-	/*
-size_t  firstHalf = start;
-size_t  secondHalf = mid + 1;
-string_vector tempArr;
-if(mid < end && strings[mid] <= strings[mid+1])
-	return;
-
-while(firstHalf <= mid && secondHalf <= end)
-{
-	if(strings[firstHalf] > strings[secondHalf])
-	{
-		tempArr.push_back(strings[secondHalf]);
-		secondHalf++;
-	}
-	else
-	{
-		tempArr.push_back(strings[firstHalf]);
-		firstHalf++;
-	}
-}
-while(firstHalf <= mid)
-{
-	tempArr.push_back(strings[firstHalf]);
-	firstHalf++;
-}
-while(secondHalf <= end)
-{
-	tempArr.push_back(strings[secondHalf]);
-	secondHalf++;
-}
-
-for(int i = 0; i < tempArr.size(); i++)
-{
-	strings[start + 1] = tempArr[i];
-}
-*/
   return;
 }
 
