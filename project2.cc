@@ -26,11 +26,9 @@ void randomize_list(string_vector & strings) {
  
   	int randNum, r;
        	srand(time(NULL)); 
-	//Random num from 1-1000
-	//What should be the max num here?
-	randNum = rand() % 1000 + 1; 
+	randNum = rand() % strings.size(); 
 
-	for(int i = 0; i < strings.size()-1; i++)
+	for(int i = 0; i < strings.size(); i++)
 	{
 		r = randNum;
 		swap(strings[i],strings[r]);
@@ -54,11 +52,13 @@ void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
     }
   }
 */
-int firstHalf = start;
-int secondHalf = mid + 1;
+size_t  firstHalf = start;
+size_t  secondHalf = mid + 1;
 string_vector tempArr;
+if(mid < end && strings[mid] <= strings[mid+1])
+	return;
 
-if(firstHalf <= mid && secondHalf <= end)
+while(firstHalf <= mid && secondHalf <= end)
 {
 	if(strings[firstHalf] > strings[secondHalf])
 		tempArr.push_back(strings[secondHalf++]);
@@ -89,13 +89,14 @@ void mergesort(string_vector & strings, size_t start, size_t end) {
     return; 
   }
 
+  if(start < end)
+  {
   size_t mid = (start + end)/2;      // marks where we will split the list
-
   mergesort(strings, start, mid);    // mergesort left
   mergesort(strings, mid + 1, end);  // mergesort right
 
   merge(strings, start, mid, end);
-
+  }
   return;
 }
 
