@@ -22,17 +22,38 @@ int main() {
     return 1;
   }
 
-  int n = 1000;
-  string_vector n_words(all_words.begin(), all_words.begin() + n);
+  for(int n = 1000; n <= 5000; n += 1000){
+    for(int j = 0; j < 5; j++){
+      string_vector n_words(all_words.begin(), all_words.begin() + n);
 
-  randomize_list(n_words);
+      randomize_list(n_words);
 
-  Timer timer;
-  mergesort(n_words);
-  double elapsed = timer.elapsed();
-  cout << "mergesort, "
-       << "n=" << n << ", "
-       << "elapsed time = " << elapsed << " seconds" << endl;
+      Timer timer;
+      mergesort(n_words);
+      double elapsed = timer.elapsed();
+      cout << "mergesort, "
+           << "n=" << n << ", "
+           << "elapsed time = " << elapsed << " seconds" << endl;
+    }
+    cout << endl;
+  }
+  cout << endl;
+
+  for(int n = 1000; n <= 5000; n += 1000){
+    for(int j = 0; j < 5; j++){
+      string_vector n_words(all_words.begin(), all_words.begin() + n);
+
+      randomize_list(n_words);
+
+      Timer timer;
+      quicksort(n_words);
+      double elapsed = timer.elapsed();
+      cout << "quicksort, "
+           << "n=" << n << ", "
+           << "elapsed time = " << elapsed << " seconds" << endl;
+    }
+    cout << endl;
+  }
 
   return 0;
 }
