@@ -23,7 +23,7 @@ using namespace std;
 // Randomize the order of all items in the list
 //-----------------------------------------------------------------------------
 void randomize_list(string_vector & strings) {
-  // TODO: implement this function, then delete this comment
+ 
   	int randNum, r;
        	srand(time(NULL)); 
 	//Random num from 1-1000
@@ -41,7 +41,7 @@ void randomize_list(string_vector & strings) {
 
 //-----------------------------------------------------------------------------
 void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
-  while(start <= mid && mid < end){
+ /* while(start <= mid && mid < end){
     if(strings[start] < strings[mid + 1]){
       start++;
     }
@@ -53,6 +53,27 @@ void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
       mid++;
     }
   }
+*/
+int firstHalf = start;
+int secondHalf = mid + 1;
+string_vector tempArr;
+
+if(firstHalf <= mid && secondHalf <= end)
+{
+	if(strings[firstHalf] > strings[secondHalf])
+		tempArr.push_back(strings[secondHalf++]);
+	else
+		tempArr.push_back(strings[firstHalf++]);
+
+}
+while(firstHalf <= mid)
+	tempArr.push_back(strings[firstHalf++]);
+
+while(secondHalf <= end)
+	tempArr.push_back(strings[secondHalf++]);
+
+for(int i = 0; i < tempArr.size(); i++)
+	strings[start + 1] = tempArr[i];
 
   return;
 }
