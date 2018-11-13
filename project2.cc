@@ -90,12 +90,12 @@ int hoare_partition(string_vector & strings, int start, int end) {
 
   while(i < j)
   {
-	while(i  < j && strings[j] >= pivot)
+	while(i < j && strings[j] >= pivot)
 		j--;
 
 	swap(strings[i],strings[j]);
 
-	while(i < j && strings[i] <= pivot)
+	while( i< j && strings[i] <= pivot)
 		i++;
 	swap(strings[j], strings[i]);
 
@@ -116,7 +116,7 @@ void quicksort(string_vector & strings, int start, int end) {
   if(start < end)
   {
   	int qs = hoare_partition(strings, start, end);
-	quicksort(strings, start, qs-1);
+	quicksort(strings, start, qs);
 	quicksort(strings, qs+1, end);
   } 
 	
