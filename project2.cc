@@ -60,11 +60,11 @@ void mergesort(string_vector & strings, size_t start, size_t end) {
   }
 
   if(start < end){
-  size_t mid = (start + end) / 2;    // marks where we will split the list
-  mergesort(strings, start, mid);    // mergesort left
-  mergesort(strings, mid + 1, end);  // mergesort right
+    size_t mid = (start + end) / 2;    // marks where we will split the list
+    mergesort(strings, start, mid);    // mergesort left
+    mergesort(strings, mid + 1, end);  // mergesort right
 
-  merge(strings, start, mid, end);
+    merge(strings, start, mid, end);
   }
   return;
 }
