@@ -48,8 +48,7 @@ void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
       strings.erase(strings.begin() + mid + 1);
       strings.emplace(strings.begin()+start, temp);
       start++;
-      mid++;
-   
+      mid++;  
     }
   }
   return;
@@ -85,7 +84,23 @@ void mergesort(string_vector & strings, size_t start, size_t end) {
 //-----------------------------------------------------------------------------
 int hoare_partition(string_vector & strings, int start, int end) {
   // TODO: implement this function, then delete this comment
-  return 0;
+  string  pivot = strings[start];
+  int i = start;
+  int j = end;
+
+  while(i < j)
+  {
+  	while(i <  j && strings[i] <= pivot)
+		i++;
+         swap(strings[j], strings[i]);
+
+	while(i  < j && strings[j] >= pivot)
+		j--;
+
+	swap(strings[i],strings[j]);
+  }
+
+  return i;
 }
 
 //-----------------------------------------------------------------------------
@@ -96,7 +111,14 @@ int hoare_partition(string_vector & strings, int start, int end) {
 //-----------------------------------------------------------------------------
 void quicksort(string_vector & strings, int start, int end) {
   // TODO: implement this function, then delete this comment
-  return;
+  if(start < end)
+  {
+  	int qs = hoare_partition(strings, start, end);
+	quicksort(strings, start, end);
+	quicksort(strings, start+1, end);
+  } 
+	
+ return;
 }
 
 
