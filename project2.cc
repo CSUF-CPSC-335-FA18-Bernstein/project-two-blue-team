@@ -23,17 +23,14 @@ using namespace std;
 // Randomize the order of all items in the list
 //-----------------------------------------------------------------------------
 void randomize_list(string_vector & strings) {
- 
-  	int randNum, r;
-       	srand(time(NULL)); 
-	randNum = rand() % strings.size(); 
+  int randNum, r;
+  srand(time(NULL)); 
+  randNum = rand() % strings.size(); 
 
-	for(int i = 0; i < strings.size(); i++)
-	{
-		r = randNum;
-		swap(strings[i],strings[r]);
-	}
-       
+  for(int i = 0; i < strings.size(); i++){
+    r = randNum;
+    swap(strings[i],strings[r]);
+  }
  return;
 }
 
@@ -46,7 +43,7 @@ void merge(string_vector & strings, size_t start, size_t mid, size_t end) {
     else{
       string temp = strings[mid + 1];
       strings.erase(strings.begin() + mid + 1);
-      strings.emplace(strings.begin()+start, temp);
+      strings.emplace(strings.begin() + start, temp);
       start++;
       mid++;  
     }
@@ -65,9 +62,8 @@ void mergesort(string_vector & strings, size_t start, size_t end) {
     return; 
   }
 
-  if(start < end)
-  {
-  size_t mid = (start + end)/2;      // marks where we will split the list
+  if(start < end){
+  size_t mid = (start + end) / 2;    // marks where we will split the list
   mergesort(strings, start, mid);    // mergesort left
   mergesort(strings, mid + 1, end);  // mergesort right
 
@@ -83,25 +79,21 @@ void mergesort(string_vector & strings, size_t start, size_t end) {
 // It returns the index of the final position of the pivot value.
 //-----------------------------------------------------------------------------
 int hoare_partition(string_vector & strings, int start, int end) {
-  // TODO: implement this function, then delete this comment
   string  pivot = strings[start];
   int i = start;
   int j = end;
 
-  while(i < j)
-  {
-	while(i < j && strings[j] >= pivot)
-		j--;
+  while(i < j){
+    while(i < j && strings[j] >= pivot){
+      j--;
+    }
+    swap(strings[i], strings[j]);
 
-	swap(strings[i],strings[j]);
-
-	while( i< j && strings[i] <= pivot)
-		i++;
-	swap(strings[j], strings[i]);
-
-
+    while( i< j && strings[i] <= pivot){
+      i++;
+    }
+    swap(strings[j], strings[i]);
   }
-
   return i;
 }
 
@@ -112,12 +104,10 @@ int hoare_partition(string_vector & strings, int start, int end) {
 // the two parts together using the merge() method.
 //-----------------------------------------------------------------------------
 void quicksort(string_vector & strings, int start, int end) {
-  // TODO: implement this function, then delete this comment
-  if(start < end)
-  {
-  	int qs = hoare_partition(strings, start, end);
-	quicksort(strings, start, qs);
-	quicksort(strings, qs+1, end);
+  if(start < end){
+  	int partition = hoare_partition(strings, start, end);
+	quicksort(strings, start, partition);
+	quicksort(strings, partition + 1, end);
   } 
 	
  return;
