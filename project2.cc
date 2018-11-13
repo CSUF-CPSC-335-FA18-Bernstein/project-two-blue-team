@@ -23,12 +23,9 @@ using namespace std;
 // Randomize the order of all items in the list
 //-----------------------------------------------------------------------------
 void randomize_list(string_vector & strings) {
-  int randNum, r;
-  srand(time(NULL)); 
-  randNum = rand() % strings.size(); 
-
   for(int i = 0; i < strings.size(); i++){
-    r = randNum;
+    srand(time(NULL));
+    int r = rand() % strings.size();
     swap(strings[i],strings[r]);
   }
  return;
