@@ -8,6 +8,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
+#include <fstream>
 
 #include "project2.hh"
 #include "timer.hh"
@@ -22,8 +23,12 @@ int main() {
     return 1;
   }
 
-  for(int n = 1000; n <= 5000; n += 1000){
-    for(int j = 0; j < 5; j++){
+  ofstream trials;
+  trials.open("trials.txt");
+
+  trials << "Mergesort\n";
+  for(int n = 5000; n <= 5000; n += 1000){
+    for(int j = 1; j <= 500; j++){
       string_vector n_words(all_words.begin(), all_words.begin() + n);
 
       randomize_list(n_words);
@@ -32,15 +37,17 @@ int main() {
       mergesort(n_words);
       double elapsed = timer.elapsed();
       cout << "mergesort, "
-           << "n=" << n << ", "
+           << "Trial: " << j << ", "
            << "elapsed time = " << elapsed << " seconds" << endl;
+      trials << "Trials: " << j << ", "
+             << "Time: " << elapsed << " seconds" << endl;
     }
     cout << endl;
   }
-  cout << endl;
 
-  for(int n = 1000; n <= 5000; n += 1000){
-    for(int j = 0; j < 5; j++){
+  trials << "\nQuicksort\n";
+  for(int n = 5000; n <= 5000; n += 1000){
+    for(int j = 1; j <= 500; j++){
       string_vector n_words(all_words.begin(), all_words.begin() + n);
 
       randomize_list(n_words);
@@ -49,11 +56,15 @@ int main() {
       quicksort(n_words);
       double elapsed = timer.elapsed();
       cout << "quicksort, "
-           << "n=" << n << ", "
+           << "Trial: " << j << ", "
            << "elapsed time = " << elapsed << " seconds" << endl;
+      trials << "Trials: " << j << ", "
+             << "Time: " << elapsed << " seconds" << endl;
     }
     cout << endl;
   }
+
+  trials.close();
 
   return 0;
 }
