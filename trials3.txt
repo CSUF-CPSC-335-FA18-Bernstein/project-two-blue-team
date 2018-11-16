@@ -1,0 +1,2003 @@
+Mergesort
+
+Trials: 1, Time: 0.524603 seconds
+
+Trials: 2, Time: 0.527056 seconds
+
+Trials: 3, Time: 0.532112 seconds
+
+Trials: 4, Time: 0.524539 seconds
+
+Trials: 5, Time: 0.519575 seconds
+
+Trials: 6, Time: 0.553945 seconds
+
+Trials: 7, Time: 0.512112 seconds
+
+Trials: 8, Time: 0.531971 seconds
+
+Trials: 9, Time: 0.547683 seconds
+
+Trials: 10, Time: 0.490479 seconds
+
+Trials: 11, Time: 0.524868 seconds
+
+Trials: 12, Time: 0.504522 seconds
+
+Trials: 13, Time: 0.514599 seconds
+
+Trials: 14, Time: 0.566236 seconds
+
+Trials: 15, Time: 0.518191 seconds
+
+Trials: 16, Time: 0.488645 seconds
+
+Trials: 17, Time: 0.529667 seconds
+
+Trials: 18, Time: 0.522784 seconds
+
+Trials: 19, Time: 0.522847 seconds
+
+Trials: 20, Time: 0.515002 seconds
+
+Trials: 21, Time: 0.500295 seconds
+
+Trials: 22, Time: 0.486572 seconds
+
+Trials: 23, Time: 0.486671 seconds
+
+Trials: 24, Time: 0.541744 seconds
+
+Trials: 25, Time: 0.480508 seconds
+
+Trials: 26, Time: 0.54044 seconds
+
+Trials: 27, Time: 0.547061 seconds
+
+Trials: 28, Time: 0.485836 seconds
+
+Trials: 29, Time: 0.499921 seconds
+
+Trials: 30, Time: 0.504652 seconds
+
+Trials: 31, Time: 0.524353 seconds
+
+Trials: 32, Time: 0.518658 seconds
+
+Trials: 33, Time: 0.521061 seconds
+
+Trials: 34, Time: 0.539724 seconds
+
+Trials: 35, Time: 0.496474 seconds
+
+Trials: 36, Time: 0.522196 seconds
+
+Trials: 37, Time: 0.509945 seconds
+
+Trials: 38, Time: 0.502732 seconds
+Trials: 39, Time: 0.521498 seconds
+
+Trials: 40, Time: 0.510147 seconds
+
+Trials: 41, Time: 0.53479 seconds
+
+Trials: 42, Time: 0.511166 seconds
+
+Trials: 43, Time: 0.527377 seconds
+
+Trials: 44, Time: 0.51588 seconds
+
+Trials: 45, Time: 0.511836 seconds
+
+Trials: 46, Time: 0.504577 seconds
+
+Trials: 47, Time: 0.524264 seconds
+
+Trials: 48, Time: 0.562391 seconds
+
+Trials: 49, Time: 0.510832 seconds
+
+Trials: 50, Time: 0.515258 seconds
+
+Trials: 51, Time: 0.517672 seconds
+
+Trials: 52, Time: 0.498506 seconds
+
+Trials: 53, Time: 0.55581 seconds
+
+Trials: 54, Time: 0.514434 seconds
+
+Trials: 55, Time: 0.520759 seconds
+
+Trials: 56, Time: 0.56624 seconds
+
+Trials: 57, Time: 0.513362 seconds
+
+Trials: 58, Time: 0.499366 seconds
+
+Trials: 59, Time: 0.519751 seconds
+
+Trials: 60, Time: 0.54801 seconds
+
+Trials: 61, Time: 0.528835 seconds
+
+Trials: 62, Time: 0.511498 seconds
+
+Trials: 63, Time: 0.518843 seconds
+
+Trials: 64, Time: 0.529199 seconds
+
+Trials: 65, Time: 0.522371 seconds
+
+Trials: 66, Time: 0.511428 seconds
+
+Trials: 67, Time: 0.529605 seconds
+
+Trials: 68, Time: 0.531043 seconds
+
+Trials: 69, Time: 0.505803 seconds
+
+Trials: 70, Time: 0.530332 seconds
+
+Trials: 71, Time: 0.541051 seconds
+
+Trials: 72, Time: 0.497686 seconds
+
+Trials: 73, Time: 0.529779 seconds
+
+Trials: 74, Time: 0.525695 seconds
+
+Trials: 75, Time: 0.558567 seconds
+
+Trials: 76, Time: 0.526887 seconds
+
+Trials: 77, Time: 0.516947 seconds
+
+Trials: 78, Time: 0.53569 seconds
+
+Trials: 79, Time: 0.522613 seconds
+
+Trials: 80, Time: 0.491419 seconds
+
+Trials: 81, Time: 0.525199 seconds
+
+Trials: 82, Time: 0.538529 seconds
+
+Trials: 83, Time: 0.510392 seconds
+
+Trials: 84, Time: 0.490429 seconds
+
+Trials: 85, Time: 0.586207 seconds
+
+Trials: 86, Time: 0.514179 seconds
+
+Trials: 87, Time: 0.510539 seconds
+
+Trials: 88, Time: 0.514893 seconds
+
+Trials: 89, Time: 0.564091 seconds
+
+Trials: 90, Time: 0.510885 seconds
+
+Trials: 91, Time: 0.516841 seconds
+
+Trials: 92, Time: 0.545801 seconds
+
+Trials: 93, Time: 0.542917 seconds
+
+Trials: 94, Time: 0.535027 seconds
+
+Trials: 95, Time: 0.506164 seconds
+
+Trials: 96, Time: 0.518784 seconds
+
+Trials: 97, Time: 0.539516 seconds
+
+Trials: 98, Time: 0.519866 seconds
+
+Trials: 99, Time: 0.527142 seconds
+
+Trials: 100, Time: 0.505105 seconds
+
+Trials: 101, Time: 0.535562 seconds
+
+Trials: 102, Time: 0.53489 seconds
+
+Trials: 103, Time: 0.503445 seconds
+
+Trials: 104, Time: 0.535015 seconds
+
+Trials: 105, Time: 0.528241 seconds
+
+Trials: 106, Time: 0.503912 seconds
+
+Trials: 107, Time: 0.523615 seconds
+
+Trials: 108, Time: 0.483927 seconds
+
+Trials: 109, Time: 0.526565 seconds
+
+Trials: 110, Time: 0.508594 seconds
+
+Trials: 111, Time: 0.499411 seconds
+
+Trials: 112, Time: 0.507192 seconds
+
+Trials: 113, Time: 0.534514 seconds
+
+Trials: 114, Time: 0.507628 seconds
+
+Trials: 115, Time: 0.517595 seconds
+
+Trials: 116, Time: 0.53371 seconds
+
+Trials: 117, Time: 0.519399 seconds
+
+Trials: 118, Time: 0.486987 seconds
+
+Trials: 119, Time: 0.489201 seconds
+
+Trials: 120, Time: 0.512143 seconds
+
+Trials: 121, Time: 0.522137 seconds
+
+Trials: 122, Time: 0.547832 seconds
+
+Trials: 123, Time: 0.541341 seconds
+
+Trials: 124, Time: 0.515182 seconds
+
+Trials: 125, Time: 0.50888 seconds
+
+Trials: 126, Time: 0.523108 seconds
+
+Trials: 127, Time: 0.547026 seconds
+
+Trials: 128, Time: 0.53901 seconds
+
+Trials: 129, Time: 0.543773 seconds
+
+Trials: 130, Time: 0.548152 seconds
+
+Trials: 131, Time: 0.519865 seconds
+
+Trials: 132, Time: 0.524984 seconds
+
+Trials: 133, Time: 0.549674 seconds
+
+Trials: 134, Time: 0.517839 seconds
+
+Trials: 135, Time: 0.50648 seconds
+
+Trials: 136, Time: 0.508474 seconds
+
+Trials: 137, Time: 0.525042 seconds
+
+Trials: 138, Time: 0.536169 seconds
+
+Trials: 139, Time: 0.510304 seconds
+
+Trials: 140, Time: 0.499233 seconds
+
+Trials: 141, Time: 0.552094 seconds
+
+Trials: 142, Time: 0.513004 seconds
+
+Trials: 143, Time: 0.507872 seconds
+
+Trials: 144, Time: 0.521681 seconds
+
+Trials: 145, Time: 0.537391 seconds
+
+Trials: 146, Time: 0.545514 seconds
+
+Trials: 147, Time: 0.504496 seconds
+
+Trials: 148, Time: 0.517793 seconds
+
+Trials: 149, Time: 0.538249 seconds
+
+Trials: 150, Time: 0.52233 seconds
+
+Trials: 151, Time: 0.497965 seconds
+
+Trials: 152, Time: 0.5209 seconds
+
+Trials: 153, Time: 0.526749 seconds
+
+Trials: 154, Time: 0.557755 seconds
+
+Trials: 155, Time: 0.501692 seconds
+
+Trials: 156, Time: 0.500133 seconds
+
+Trials: 157, Time: 0.538129 seconds
+
+Trials: 158, Time: 0.507072 seconds
+
+Trials: 159, Time: 0.529184 seconds
+
+Trials: 160, Time: 0.495935 seconds
+
+Trials: 161, Time: 0.50837 seconds
+
+Trials: 162, Time: 0.479903 seconds
+
+Trials: 163, Time: 0.522487 seconds
+
+Trials: 164, Time: 0.479749 seconds
+
+Trials: 165, Time: 0.501763 seconds
+
+Trials: 166, Time: 0.486521 seconds
+
+Trials: 167, Time: 0.533907 seconds
+
+Trials: 168, Time: 0.501065 seconds
+
+Trials: 169, Time: 0.509093 seconds
+
+Trials: 170, Time: 0.524818 seconds
+
+Trials: 171, Time: 0.540807 seconds
+
+Trials: 172, Time: 0.516907 seconds
+
+Trials: 173, Time: 0.491272 seconds
+
+Trials: 174, Time: 0.513511 seconds
+
+Trials: 175, Time: 0.519651 seconds
+
+Trials: 176, Time: 0.513882 seconds
+
+Trials: 177, Time: 0.485509 seconds
+
+Trials: 178, Time: 0.515621 seconds
+
+Trials: 179, Time: 0.547 seconds
+
+Trials: 180, Time: 0.52111 seconds
+
+Trials: 181, Time: 0.539587 seconds
+
+Trials: 182, Time: 0.518541 seconds
+
+Trials: 183, Time: 0.549192 seconds
+
+Trials: 184, Time: 0.509385 seconds
+
+Trials: 185, Time: 0.514895 seconds
+
+Trials: 186, Time: 0.525716 seconds
+
+Trials: 187, Time: 0.512175 seconds
+
+Trials: 188, Time: 0.525583 seconds
+
+Trials: 189, Time: 0.534273 seconds
+
+Trials: 190, Time: 0.527639 seconds
+
+Trials: 191, Time: 0.559962 seconds
+
+Trials: 192, Time: 0.510574 seconds
+
+Trials: 193, Time: 0.530856 seconds
+
+Trials: 194, Time: 0.531283 seconds
+
+Trials: 195, Time: 0.543473 seconds
+
+Trials: 196, Time: 0.541895 seconds
+
+Trials: 197, Time: 0.503494 seconds
+
+Trials: 198, Time: 0.511962 seconds
+
+Trials: 199, Time: 0.544254 seconds
+
+Trials: 200, Time: 0.56431 seconds
+
+Trials: 201, Time: 0.513435 seconds
+
+Trials: 202, Time: 0.496357 seconds
+
+Trials: 203, Time: 0.570393 seconds
+
+Trials: 204, Time: 0.520664 seconds
+
+Trials: 205, Time: 0.511508 seconds
+
+Trials: 206, Time: 0.511133 seconds
+
+Trials: 207, Time: 0.521048 seconds
+
+Trials: 208, Time: 0.527616 seconds
+
+Trials: 209, Time: 0.506783 seconds
+
+Trials: 210, Time: 0.501448 seconds
+
+Trials: 211, Time: 0.489926 seconds
+
+Trials: 212, Time: 0.507894 seconds
+
+Trials: 213, Time: 0.544454 seconds
+
+Trials: 214, Time: 0.503729 seconds
+
+Trials: 215, Time: 0.533303 seconds
+
+Trials: 216, Time: 0.547394 seconds
+
+Trials: 217, Time: 0.49904 seconds
+
+Trials: 218, Time: 0.52888 seconds
+
+Trials: 219, Time: 0.544612 seconds
+
+Trials: 220, Time: 0.514026 seconds
+
+Trials: 221, Time: 0.533994 seconds
+
+Trials: 222, Time: 0.544959 seconds
+
+Trials: 223, Time: 0.51511 seconds
+
+Trials: 224, Time: 0.539947 seconds
+
+Trials: 225, Time: 0.501572 seconds
+
+Trials: 226, Time: 0.490309 seconds
+
+Trials: 227, Time: 0.522176 seconds
+
+Trials: 228, Time: 0.505193 seconds
+Trials: 229, Time: 0.608765 seconds
+
+Trials: 230, Time: 0.547797 seconds
+
+Trials: 231, Time: 0.536955 seconds
+
+Trials: 232, Time: 0.51044 seconds
+
+Trials: 233, Time: 0.518334 seconds
+
+Trials: 234, Time: 0.528264 seconds
+
+Trials: 235, Time: 0.516064 seconds
+
+Trials: 236, Time: 0.502308 seconds
+
+Trials: 237, Time: 0.517686 seconds
+
+Trials: 238, Time: 0.505229 seconds
+
+Trials: 239, Time: 0.521461 seconds
+
+Trials: 240, Time: 0.530293 seconds
+
+Trials: 241, Time: 0.541975 seconds
+
+Trials: 242, Time: 0.524254 seconds
+
+Trials: 243, Time: 0.566306 seconds
+
+Trials: 244, Time: 0.561775 seconds
+
+Trials: 245, Time: 0.545198 seconds
+
+Trials: 246, Time: 0.524893 seconds
+
+Trials: 247, Time: 0.536912 seconds
+
+Trials: 248, Time: 0.504026 seconds
+
+Trials: 249, Time: 0.549359 seconds
+
+Trials: 250, Time: 0.528068 seconds
+
+Trials: 251, Time: 0.516614 seconds
+
+Trials: 252, Time: 0.536214 seconds
+
+Trials: 253, Time: 0.507362 seconds
+
+Trials: 254, Time: 0.517334 seconds
+
+Trials: 255, Time: 0.506392 seconds
+
+Trials: 256, Time: 0.541045 seconds
+
+Trials: 257, Time: 0.4855 seconds
+
+Trials: 258, Time: 0.529464 seconds
+
+Trials: 259, Time: 0.523035 seconds
+
+Trials: 260, Time: 0.489473 seconds
+
+Trials: 261, Time: 0.514589 seconds
+
+Trials: 262, Time: 0.495574 seconds
+
+Trials: 263, Time: 0.503987 seconds
+
+Trials: 264, Time: 0.511569 seconds
+
+Trials: 265, Time: 0.514004 seconds
+
+Trials: 266, Time: 0.530736 seconds
+
+Trials: 267, Time: 0.504895 seconds
+
+Trials: 268, Time: 0.493515 seconds
+
+Trials: 269, Time: 0.540482 seconds
+
+Trials: 270, Time: 0.521218 seconds
+
+Trials: 271, Time: 0.485835 seconds
+
+Trials: 272, Time: 0.477906 seconds
+
+Trials: 273, Time: 0.530078 seconds
+
+Trials: 274, Time: 0.561606 seconds
+
+Trials: 275, Time: 0.506457 seconds
+
+Trials: 276, Time: 0.534878 seconds
+
+Trials: 277, Time: 0.527036 seconds
+
+Trials: 278, Time: 0.524922 seconds
+
+Trials: 279, Time: 0.551383 seconds
+
+Trials: 280, Time: 0.504255 seconds
+
+Trials: 281, Time: 0.530509 seconds
+
+Trials: 282, Time: 0.51763 seconds
+
+Trials: 283, Time: 0.522595 seconds
+
+Trials: 284, Time: 0.493281 seconds
+
+Trials: 285, Time: 0.511481 seconds
+
+Trials: 286, Time: 0.490551 seconds
+
+Trials: 287, Time: 0.46815 seconds
+
+Trials: 288, Time: 0.460096 seconds
+
+Trials: 289, Time: 0.469511 seconds
+
+Trials: 290, Time: 0.566026 seconds
+
+Trials: 291, Time: 0.518448 seconds
+
+Trials: 292, Time: 0.521234 seconds
+
+Trials: 293, Time: 0.479785 seconds
+
+Trials: 294, Time: 0.474899 seconds
+
+Trials: 295, Time: 0.509496 seconds
+
+Trials: 296, Time: 0.511891 seconds
+
+Trials: 297, Time: 0.507426 seconds
+
+Trials: 298, Time: 0.49152 seconds
+
+Trials: 299, Time: 0.545606 seconds
+
+Trials: 300, Time: 0.57645 seconds
+
+Trials: 301, Time: 0.541305 seconds
+Trials: 302, Time: 0.495855 seconds
+
+Trials: 303, Time: 0.520845 seconds
+
+Trials: 304, Time: 0.500496 seconds
+
+Trials: 305, Time: 0.528294 seconds
+
+Trials: 306, Time: 0.546853 seconds
+
+Trials: 307, Time: 0.592977 seconds
+
+Trials: 308, Time: 0.523121 seconds
+
+Trials: 309, Time: 0.535569 seconds
+
+Trials: 310, Time: 0.514903 seconds
+
+Trials: 311, Time: 0.486653 seconds
+
+Trials: 312, Time: 0.515879 seconds
+
+Trials: 313, Time: 0.524053 seconds
+
+Trials: 314, Time: 0.513936 seconds
+
+Trials: 315, Time: 0.505148 seconds
+
+Trials: 316, Time: 0.513583 seconds
+
+Trials: 317, Time: 0.520406 seconds
+
+Trials: 318, Time: 0.516071 seconds
+
+Trials: 319, Time: 0.540154 seconds
+
+Trials: 320, Time: 0.498817 seconds
+
+Trials: 321, Time: 0.531925 seconds
+
+Trials: 322, Time: 0.515909 seconds
+
+Trials: 323, Time: 0.511889 seconds
+
+Trials: 324, Time: 0.526044 seconds
+
+Trials: 325, Time: 0.523445 seconds
+
+Trials: 326, Time: 0.475107 seconds
+
+Trials: 327, Time: 0.546776 seconds
+
+Trials: 328, Time: 0.53269 seconds
+
+Trials: 329, Time: 0.489004 seconds
+
+Trials: 330, Time: 0.469617 seconds
+
+Trials: 331, Time: 0.518948 seconds
+
+Trials: 332, Time: 0.508458 seconds
+
+Trials: 333, Time: 0.485737 seconds
+
+Trials: 334, Time: 0.502775 seconds
+
+Trials: 335, Time: 0.489127 seconds
+
+Trials: 336, Time: 0.515882 seconds
+
+Trials: 337, Time: 0.485166 seconds
+
+Trials: 338, Time: 0.494916 seconds
+
+Trials: 339, Time: 0.499534 seconds
+
+Trials: 340, Time: 0.533096 seconds
+
+Trials: 341, Time: 0.499996 seconds
+
+Trials: 342, Time: 0.488998 seconds
+
+Trials: 343, Time: 0.490452 seconds
+
+Trials: 344, Time: 0.553086 seconds
+
+Trials: 345, Time: 0.522706 seconds
+
+Trials: 346, Time: 0.528936 seconds
+
+Trials: 347, Time: 0.515494 seconds
+
+Trials: 348, Time: 0.514559 seconds
+
+Trials: 349, Time: 0.501334 seconds
+
+Trials: 350, Time: 0.495591 seconds
+
+Trials: 351, Time: 0.519846 seconds
+
+Trials: 352, Time: 0.503837 seconds
+
+Trials: 353, Time: 0.477547 seconds
+
+Trials: 354, Time: 0.500427 seconds
+
+Trials: 355, Time: 0.554935 seconds
+
+Trials: 356, Time: 0.515078 seconds
+
+Trials: 357, Time: 0.492601 seconds
+
+Trials: 358, Time: 0.470482 seconds
+
+Trials: 359, Time: 0.495113 seconds
+
+Trials: 360, Time: 0.562223 seconds
+
+Trials: 361, Time: 0.540896 seconds
+
+Trials: 362, Time: 0.510006 seconds
+
+Trials: 363, Time: 0.503002 seconds
+
+Trials: 364, Time: 0.480784 seconds
+
+Trials: 365, Time: 0.515661 seconds
+
+Trials: 366, Time: 0.496927 seconds
+
+Trials: 367, Time: 0.479204 seconds
+
+Trials: 368, Time: 0.484396 seconds
+
+Trials: 369, Time: 0.502237 seconds
+
+Trials: 370, Time: 0.496327 seconds
+
+Trials: 371, Time: 0.49743 seconds
+
+Trials: 372, Time: 0.512101 seconds
+
+Trials: 373, Time: 0.552067 seconds
+
+Trials: 374, Time: 0.499427 seconds
+
+Trials: 375, Time: 0.504212 seconds
+
+Trials: 376, Time: 0.541382 seconds
+
+Trials: 377, Time: 0.490365 seconds
+
+Trials: 378, Time: 0.499199 seconds
+
+Trials: 379, Time: 0.49197 seconds
+
+Trials: 380, Time: 0.563185 seconds
+
+Trials: 381, Time: 0.518374 seconds
+
+Trials: 382, Time: 0.5216 seconds
+
+Trials: 383, Time: 0.517726 seconds
+
+Trials: 384, Time: 0.488376 seconds
+
+Trials: 385, Time: 0.498053 seconds
+
+Trials: 386, Time: 0.481025 seconds
+
+Trials: 387, Time: 0.538706 seconds
+
+Trials: 388, Time: 0.508339 seconds
+
+Trials: 389, Time: 0.519446 seconds
+
+Trials: 390, Time: 0.474387 seconds
+
+Trials: 391, Time: 0.533608 seconds
+
+Trials: 392, Time: 0.518739 seconds
+
+Trials: 393, Time: 0.508198 seconds
+
+Trials: 394, Time: 0.539424 seconds
+
+Trials: 395, Time: 0.485983 seconds
+
+Trials: 396, Time: 0.54799 seconds
+
+Trials: 397, Time: 0.502721 seconds
+
+Trials: 398, Time: 0.506964 seconds
+
+Trials: 399, Time: 0.528257 seconds
+
+Trials: 400, Time: 0.523031 seconds
+
+Trials: 401, Time: 0.526631 seconds
+
+Trials: 402, Time: 0.481459 seconds
+
+Trials: 403, Time: 0.533793 seconds
+
+Trials: 404, Time: 0.512657 seconds
+
+Trials: 405, Time: 0.510886 seconds
+
+Trials: 406, Time: 0.500084 seconds
+
+Trials: 407, Time: 0.551916 seconds
+
+Trials: 408, Time: 0.50974 seconds
+
+Trials: 409, Time: 0.513869 seconds
+
+Trials: 410, Time: 0.505005 seconds
+
+Trials: 411, Time: 0.544526 seconds
+
+Trials: 412, Time: 0.541018 seconds
+
+Trials: 413, Time: 0.538399 seconds
+
+Trials: 414, Time: 0.510398 seconds
+
+Trials: 415, Time: 0.507344 seconds
+
+Trials: 416, Time: 0.49783 seconds
+
+Trials: 417, Time: 0.562786 seconds
+
+Trials: 418, Time: 0.490429 seconds
+
+Trials: 419, Time: 0.484091 seconds
+
+Trials: 420, Time: 0.517581 seconds
+
+Trials: 421, Time: 0.554975 seconds
+
+Trials: 422, Time: 0.526585 seconds
+
+Trials: 423, Time: 0.48322 seconds
+
+Trials: 424, Time: 0.543256 seconds
+
+Trials: 425, Time: 0.528932 seconds
+
+Trials: 426, Time: 0.52381 seconds
+
+Trials: 427, Time: 0.527744 seconds
+
+Trials: 428, Time: 0.514313 seconds
+
+Trials: 429, Time: 0.496369 seconds
+
+Trials: 430, Time: 0.537825 seconds
+
+Trials: 431, Time: 0.528409 seconds
+
+Trials: 432, Time: 0.536393 seconds
+
+Trials: 433, Time: 0.54519 seconds
+
+Trials: 434, Time: 0.537887 seconds
+
+Trials: 435, Time: 0.527215 seconds
+
+Trials: 436, Time: 0.499436 seconds
+
+Trials: 437, Time: 0.527335 seconds
+
+Trials: 438, Time: 0.49097 seconds
+
+Trials: 439, Time: 0.524523 seconds
+
+Trials: 440, Time: 0.520781 seconds
+
+Trials: 441, Time: 0.52845 seconds
+
+Trials: 442, Time: 0.550525 seconds
+
+Trials: 443, Time: 0.515503 seconds
+
+Trials: 444, Time: 0.517717 seconds
+
+Trials: 445, Time: 0.508566 seconds
+
+Trials: 446, Time: 0.491044 seconds
+
+Trials: 447, Time: 0.545415 seconds
+
+Trials: 448, Time: 0.517919 seconds
+
+Trials: 449, Time: 0.480667 seconds
+
+Trials: 450, Time: 0.475143 seconds
+
+Trials: 451, Time: 0.478583 seconds
+
+Trials: 452, Time: 0.467937 seconds
+
+Trials: 453, Time: 0.483373 seconds
+
+Trials: 454, Time: 0.517819 seconds
+
+Trials: 455, Time: 0.510294 seconds
+
+Trials: 456, Time: 0.495916 seconds
+
+Trials: 457, Time: 0.545238 seconds
+
+Trials: 458, Time: 0.474811 seconds
+
+Trials: 459, Time: 0.500339 seconds
+
+Trials: 460, Time: 0.493337 seconds
+
+Trials: 461, Time: 0.478527 seconds
+
+Trials: 462, Time: 0.474983 seconds
+
+Trials: 463, Time: 0.48751 seconds
+
+Trials: 464, Time: 0.496893 seconds
+
+Trials: 465, Time: 0.478679 seconds
+
+Trials: 466, Time: 0.45767 seconds
+
+Trials: 467, Time: 0.502261 seconds
+
+Trials: 468, Time: 0.48151 seconds
+
+Trials: 469, Time: 0.488277 seconds
+
+Trials: 470, Time: 0.465387 seconds
+
+Trials: 471, Time: 0.468455 seconds
+
+Trials: 472, Time: 0.476054 seconds
+
+Trials: 473, Time: 0.478106 seconds
+
+Trials: 474, Time: 0.458028 seconds
+
+Trials: 475, Time: 0.449517 seconds
+
+Trials: 476, Time: 0.455165 seconds
+
+Trials: 477, Time: 0.462231 seconds
+
+Trials: 478, Time: 0.455921 seconds
+
+Trials: 479, Time: 0.453613 seconds
+
+Trials: 480, Time: 0.447317 seconds
+
+Trials: 481, Time: 0.457577 seconds
+
+Trials: 482, Time: 0.462192 seconds
+
+Trials: 483, Time: 0.466109 seconds
+
+Trials: 484, Time: 0.472445 seconds
+
+Trials: 485, Time: 0.467615 seconds
+
+Trials: 486, Time: 0.455497 seconds
+
+Trials: 487, Time: 0.520193 seconds
+
+Trials: 488, Time: 0.553535 seconds
+
+Trials: 489, Time: 0.524504 seconds
+
+Trials: 490, Time: 0.551704 seconds
+
+Trials: 491, Time: 0.518845 seconds
+
+Trials: 492, Time: 0.506009 seconds
+
+Trials: 493, Time: 0.546034 seconds
+
+Trials: 494, Time: 0.524707 seconds
+
+Trials: 495, Time: 0.513575 seconds
+
+Trials: 496, Time: 0.532657 seconds
+
+Trials: 497, Time: 0.468861 seconds
+
+Trials: 498, Time: 0.445844 seconds
+
+Trials: 499, Time: 0.446473 seconds
+
+Trials: 500, Time: 0.452202 seconds
+
+
+
+Quicksort
+
+Trials: 1, Time: 0.444074 seconds
+
+Trials: 2, Time: 0.424748 seconds
+
+Trials: 3, Time: 0.297769 seconds
+
+Trials: 4, Time: 0.291334 seconds
+
+Trials: 5, Time: 0.295484 seconds
+
+Trials: 6, Time: 0.42041 seconds
+
+Trials: 7, Time: 0.432046 seconds
+
+Trials: 8, Time: 0.24271 seconds
+
+Trials: 9, Time: 0.335215 seconds
+
+Trials: 10, Time: 0.332941 seconds
+
+Trials: 11, Time: 0.335427 seconds
+
+Trials: 12, Time: 0.272901 seconds
+
+Trials: 13, Time: 0.273325 seconds
+
+Trials: 14, Time: 0.270453 seconds
+
+Trials: 15, Time: 0.263822 seconds
+
+Trials: 16, Time: 0.259432 seconds
+
+Trials: 17, Time: 0.265706 seconds
+
+Trials: 18, Time: 0.227869 seconds
+
+Trials: 19, Time: 0.420463 seconds
+
+Trials: 20, Time: 0.418405 seconds
+
+Trials: 21, Time: 0.277316 seconds
+
+Trials: 22, Time: 0.292739 seconds
+
+Trials: 23, Time: 0.288488 seconds
+
+Trials: 24, Time: 0.163325 seconds
+
+Trials: 25, Time: 0.33194 seconds
+
+Trials: 26, Time: 0.330607 seconds
+
+Trials: 27, Time: 0.326184 seconds
+
+Trials: 28, Time: 0.269937 seconds
+
+Trials: 29, Time: 0.272324 seconds
+
+Trials: 30, Time: 0.265203 seconds
+
+Trials: 31, Time: 0.286316 seconds
+
+Trials: 32, Time: 0.294165 seconds
+
+Trials: 33, Time: 0.29516 seconds
+
+Trials: 34, Time: 0.294844 seconds
+
+Trials: 35, Time: 0.276309 seconds
+
+Trials: 36, Time: 0.278494 seconds
+
+Trials: 37, Time: 0.294211 seconds
+
+Trials: 38, Time: 0.262189 seconds
+
+Trials: 39, Time: 0.263667 seconds
+
+Trials: 40, Time: 0.264122 seconds
+
+Trials: 41, Time: 0.445624 seconds
+
+Trials: 42, Time: 0.42265 seconds
+
+Trials: 43, Time: 0.469686 seconds
+
+Trials: 44, Time: 0.283886 seconds
+
+Trials: 45, Time: 0.25536 seconds
+
+Trials: 46, Time: 0.273889 seconds
+
+Trials: 47, Time: 0.267998 seconds
+
+Trials: 48, Time: 0.290676 seconds
+
+Trials: 49, Time: 0.263696 seconds
+
+Trials: 50, Time: 0.27457 seconds
+
+Trials: 51, Time: 0.300049 seconds
+
+Trials: 52, Time: 0.278942 seconds
+
+Trials: 53, Time: 0.346782 seconds
+
+Trials: 54, Time: 0.396426 seconds
+
+Trials: 55, Time: 0.388703 seconds
+
+Trials: 56, Time: 0.326039 seconds
+
+Trials: 57, Time: 0.307742 seconds
+
+Trials: 58, Time: 0.30096 seconds
+
+Trials: 59, Time: 0.350907 seconds
+
+Trials: 60, Time: 0.321875 seconds
+
+Trials: 61, Time: 0.338907 seconds
+
+Trials: 62, Time: 0.46935 seconds
+
+Trials: 63, Time: 0.466675 seconds
+
+Trials: 64, Time: 0.443706 seconds
+
+Trials: 65, Time: 0.491951 seconds
+
+Trials: 66, Time: 0.44577 seconds
+
+Trials: 67, Time: 0.440423 seconds
+
+Trials: 68, Time: 0.330495 seconds
+
+Trials: 69, Time: 0.33005 seconds
+
+Trials: 70, Time: 0.348797 seconds
+
+Trials: 71, Time: 0.491099 seconds
+
+Trials: 72, Time: 0.49715 seconds
+
+Trials: 73, Time: 0.37271 seconds
+
+Trials: 74, Time: 0.353015 seconds
+
+Trials: 75, Time: 0.344596 seconds
+
+Trials: 76, Time: 0.284522 seconds
+
+Trials: 77, Time: 0.319196 seconds
+
+Trials: 78, Time: 0.327884 seconds
+
+Trials: 79, Time: 0.369849 seconds
+
+Trials: 80, Time: 0.368225 seconds
+
+Trials: 81, Time: 0.365227 seconds
+
+Trials: 82, Time: 0.350116 seconds
+
+Trials: 83, Time: 0.327115 seconds
+
+Trials: 84, Time: 0.496329 seconds
+
+Trials: 85, Time: 0.503018 seconds
+
+Trials: 86, Time: 0.463301 seconds
+
+Trials: 87, Time: 0.447349 seconds
+
+Trials: 88, Time: 0.288488 seconds
+
+Trials: 89, Time: 0.310774 seconds
+
+Trials: 90, Time: 0.33637 seconds
+
+Trials: 91, Time: 0.570595 seconds
+
+Trials: 92, Time: 0.530879 seconds
+
+Trials: 93, Time: 0.514908 seconds
+
+Trials: 94, Time: 0.515575 seconds
+
+Trials: 95, Time: 0.345579 seconds
+
+Trials: 96, Time: 0.312184 seconds
+
+Trials: 97, Time: 0.346312 seconds
+
+Trials: 98, Time: 0.354859 seconds
+
+Trials: 99, Time: 0.344741 seconds
+
+Trials: 100, Time: 0.32681 seconds
+
+Trials: 101, Time: 0.358046 seconds
+
+Trials: 102, Time: 0.345984 seconds
+
+Trials: 103, Time: 0.43479 seconds
+
+Trials: 104, Time: 0.47729 seconds
+
+Trials: 105, Time: 0.355448 seconds
+
+Trials: 106, Time: 0.364757 seconds
+
+Trials: 107, Time: 0.352103 seconds
+
+Trials: 108, Time: 0.400365 seconds
+
+Trials: 109, Time: 0.405159 seconds
+
+Trials: 110, Time: 0.278425 seconds
+
+Trials: 111, Time: 0.283216 seconds
+
+Trials: 112, Time: 0.295411 seconds
+
+Trials: 113, Time: 0.371649 seconds
+
+Trials: 114, Time: 0.39811 seconds
+
+Trials: 115, Time: 0.378781 seconds
+
+Trials: 116, Time: 0.558836 seconds
+
+Trials: 117, Time: 0.591426 seconds
+
+Trials: 118, Time: 0.516473 seconds
+
+Trials: 119, Time: 0.552441 seconds
+
+Trials: 120, Time: 0.604915 seconds
+
+Trials: 121, Time: 0.278018 seconds
+
+Trials: 122, Time: 0.317349 seconds
+
+Trials: 123, Time: 0.283658 seconds
+
+Trials: 124, Time: 0.293435 seconds
+
+Trials: 125, Time: 0.334791 seconds
+
+Trials: 126, Time: 0.316532 seconds
+
+Trials: 127, Time: 0.38832 seconds
+
+Trials: 128, Time: 0.369367 seconds
+
+Trials: 129, Time: 0.372684 seconds
+
+Trials: 130, Time: 0.452027 seconds
+
+Trials: 131, Time: 0.453811 seconds
+
+Trials: 132, Time: 0.286606 seconds
+
+Trials: 133, Time: 0.30154 seconds
+
+Trials: 134, Time: 0.311444 seconds
+
+Trials: 135, Time: 0.365634 seconds
+
+Trials: 136, Time: 0.366093 seconds
+
+Trials: 137, Time: 0.374176 seconds
+
+Trials: 138, Time: 0.515145 seconds
+
+Trials: 139, Time: 0.579424 seconds
+
+Trials: 140, Time: 0.361387 seconds
+
+Trials: 141, Time: 0.371524 seconds
+
+Trials: 142, Time: 0.53677 seconds
+
+Trials: 143, Time: 0.548433 seconds
+
+Trials: 144, Time: 0.464474 seconds
+
+Trials: 145, Time: 0.472148 seconds
+
+Trials: 146, Time: 0.362836 seconds
+
+Trials: 147, Time: 0.322193 seconds
+
+Trials: 148, Time: 0.210913 seconds
+
+Trials: 149, Time: 0.358118 seconds
+
+Trials: 150, Time: 0.363057 seconds
+
+Trials: 151, Time: 0.372296 seconds
+
+Trials: 152, Time: 0.303389 seconds
+
+Trials: 153, Time: 0.297757 seconds
+
+Trials: 154, Time: 0.294909 seconds
+
+Trials: 155, Time: 0.283447 seconds
+
+Trials: 156, Time: 0.309678 seconds
+
+Trials: 157, Time: 0.318307 seconds
+
+Trials: 158, Time: 0.350939 seconds
+
+Trials: 159, Time: 0.352444 seconds
+
+Trials: 160, Time: 0.38701 seconds
+
+Trials: 161, Time: 0.39744 seconds
+
+Trials: 162, Time: 0.394705 seconds
+
+Trials: 163, Time: 0.379468 seconds
+
+Trials: 164, Time: 0.391435 seconds
+
+Trials: 165, Time: 0.545375 seconds
+
+Trials: 166, Time: 0.535623 seconds
+
+Trials: 167, Time: 0.279493 seconds
+
+Trials: 168, Time: 0.299891 seconds
+
+Trials: 169, Time: 0.302422 seconds
+
+Trials: 170, Time: 0.331359 seconds
+
+Trials: 171, Time: 0.346107 seconds
+
+Trials: 172, Time: 0.339813 seconds
+
+Trials: 173, Time: 0.443287 seconds
+
+Trials: 174, Time: 0.464488 seconds
+
+Trials: 175, Time: 0.533058 seconds
+
+Trials: 176, Time: 0.532883 seconds
+
+Trials: 177, Time: 0.427953 seconds
+
+Trials: 178, Time: 0.44341 seconds
+
+Trials: 179, Time: 0.31135 seconds
+
+Trials: 180, Time: 0.287115 seconds
+
+Trials: 181, Time: 0.300071 seconds
+
+Trials: 182, Time: 0.318337 seconds
+
+Trials: 183, Time: 0.331674 seconds
+
+Trials: 184, Time: 0.322213 seconds
+
+Trials: 185, Time: 0.461704 seconds
+
+Trials: 186, Time: 0.463638 seconds
+
+Trials: 187, Time: 0.411564 seconds
+
+Trials: 188, Time: 0.366023 seconds
+
+Trials: 189, Time: 0.365796 seconds
+
+Trials: 190, Time: 0.304365 seconds
+
+Trials: 191, Time: 0.296148 seconds
+
+Trials: 192, Time: 0.295462 seconds
+
+Trials: 193, Time: 0.335921 seconds
+
+Trials: 194, Time: 0.346769 seconds
+
+Trials: 195, Time: 0.34064 seconds
+
+Trials: 196, Time: 0.538144 seconds
+
+Trials: 197, Time: 0.52788 seconds
+
+Trials: 198, Time: 0.574373 seconds
+
+Trials: 199, Time: 0.546974 seconds
+
+Trials: 200, Time: 0.366742 seconds
+
+Trials: 201, Time: 0.336567 seconds
+
+Trials: 202, Time: 0.314406 seconds
+
+Trials: 203, Time: 0.320449 seconds
+
+Trials: 204, Time: 0.344378 seconds
+
+Trials: 205, Time: 0.363891 seconds
+
+Trials: 206, Time: 0.367315 seconds
+
+Trials: 207, Time: 0.319341 seconds
+
+Trials: 208, Time: 0.298407 seconds
+
+Trials: 209, Time: 0.302293 seconds
+
+Trials: 210, Time: 0.534829 seconds
+
+Trials: 211, Time: 0.491447 seconds
+
+Trials: 212, Time: 0.314489 seconds
+
+Trials: 213, Time: 0.352373 seconds
+
+Trials: 214, Time: 0.337563 seconds
+
+Trials: 215, Time: 0.39145 seconds
+
+Trials: 216, Time: 0.3806 seconds
+
+Trials: 217, Time: 0.189171 seconds
+
+Trials: 218, Time: 0.324271 seconds
+
+Trials: 219, Time: 0.363769 seconds
+
+Trials: 220, Time: 0.317565 seconds
+
+Trials: 221, Time: 0.341323 seconds
+
+Trials: 222, Time: 0.347617 seconds
+
+Trials: 223, Time: 0.310256 seconds
+
+Trials: 224, Time: 0.309073 seconds
+
+Trials: 225, Time: 0.309622 seconds
+
+Trials: 226, Time: 0.303687 seconds
+
+Trials: 227, Time: 0.43172 seconds
+
+Trials: 228, Time: 0.391419 seconds
+
+Trials: 229, Time: 0.34836 seconds
+
+Trials: 230, Time: 0.357336 seconds
+
+Trials: 231, Time: 0.348489 seconds
+
+Trials: 232, Time: 0.307438 seconds
+
+Trials: 233, Time: 0.292438 seconds
+
+Trials: 234, Time: 0.313882 seconds
+
+Trials: 235, Time: 0.444735 seconds
+
+Trials: 236, Time: 0.469063 seconds
+
+Trials: 237, Time: 0.387683 seconds
+
+Trials: 238, Time: 0.398295 seconds
+
+Trials: 239, Time: 0.386753 seconds
+
+Trials: 240, Time: 0.394996 seconds
+
+Trials: 241, Time: 0.37853 seconds
+
+Trials: 242, Time: 0.30973 seconds
+
+Trials: 243, Time: 0.342534 seconds
+
+Trials: 244, Time: 0.307799 seconds
+
+Trials: 245, Time: 0.501585 seconds
+
+Trials: 246, Time: 0.532287 seconds
+
+Trials: 247, Time: 0.304659 seconds
+
+Trials: 248, Time: 0.288416 seconds
+
+Trials: 249, Time: 0.311234 seconds
+
+Trials: 250, Time: 0.540005 seconds
+
+Trials: 251, Time: 0.578051 seconds
+
+Trials: 252, Time: 0.324698 seconds
+
+Trials: 253, Time: 0.279916 seconds
+
+Trials: 254, Time: 0.278026 seconds
+
+Trials: 255, Time: 0.569684 seconds
+
+Trials: 256, Time: 0.57987 seconds
+
+Trials: 257, Time: 0.392044 seconds
+
+Trials: 258, Time: 0.39636 seconds
+
+Trials: 259, Time: 0.360293 seconds
+
+Trials: 260, Time: 0.32487 seconds
+
+Trials: 261, Time: 0.323064 seconds
+
+Trials: 262, Time: 0.335154 seconds
+
+Trials: 263, Time: 0.340822 seconds
+
+Trials: 264, Time: 0.607303 seconds
+
+Trials: 265, Time: 0.602341 seconds
+
+Trials: 266, Time: 0.540621 seconds
+
+Trials: 267, Time: 0.605158 seconds
+
+Trials: 268, Time: 0.4442 seconds
+
+Trials: 269, Time: 0.422815 seconds
+
+Trials: 270, Time: 0.554007 seconds
+
+Trials: 271, Time: 0.583057 seconds
+
+Trials: 272, Time: 0.308815 seconds
+
+Trials: 273, Time: 0.336184 seconds
+
+Trials: 274, Time: 0.484111 seconds
+
+Trials: 275, Time: 0.525629 seconds
+
+Trials: 276, Time: 0.32581 seconds
+
+Trials: 277, Time: 0.326849 seconds
+
+Trials: 278, Time: 0.326489 seconds
+
+Trials: 279, Time: 0.32081 seconds
+
+Trials: 280, Time: 0.341973 seconds
+
+Trials: 281, Time: 0.387741 seconds
+
+Trials: 282, Time: 0.408542 seconds
+
+Trials: 283, Time: 0.400926 seconds
+
+Trials: 284, Time: 0.57661 seconds
+
+Trials: 285, Time: 0.63455 seconds
+
+Trials: 286, Time: 0.457136 seconds
+
+Trials: 287, Time: 0.485374 seconds
+
+Trials: 288, Time: 0.353655 seconds
+
+Trials: 289, Time: 0.339487 seconds
+
+Trials: 290, Time: 0.361788 seconds
+
+Trials: 291, Time: 0.361842 seconds
+
+Trials: 292, Time: 0.371608 seconds
+
+Trials: 293, Time: 0.298014 seconds
+
+Trials: 294, Time: 0.309857 seconds
+
+Trials: 295, Time: 0.321283 seconds
+
+Trials: 296, Time: 0.333314 seconds
+
+Trials: 297, Time: 0.374496 seconds
+
+Trials: 298, Time: 0.522096 seconds
+
+Trials: 299, Time: 0.505506 seconds
+
+Trials: 300, Time: 0.3435 seconds
+
+Trials: 301, Time: 0.334292 seconds
+
+Trials: 302, Time: 0.324849 seconds
+
+Trials: 303, Time: 0.338581 seconds
+
+Trials: 304, Time: 0.301049 seconds
+
+Trials: 305, Time: 0.300666 seconds
+
+Trials: 306, Time: 0.375689 seconds
+
+Trials: 307, Time: 0.393689 seconds
+
+Trials: 308, Time: 0.362353 seconds
+
+Trials: 309, Time: 0.380005 seconds
+
+Trials: 310, Time: 0.435564 seconds
+
+Trials: 311, Time: 0.579122 seconds
+
+Trials: 312, Time: 0.676909 seconds
+
+Trials: 313, Time: 0.314867 seconds
+
+Trials: 314, Time: 0.283432 seconds
+
+
+Trials: 315, Time: 0.413347 seconds
+
+Trials: 316, Time: 0.393724 seconds
+
+Trials: 317, Time: 0.177827 seconds
+
+Trials: 318, Time: 0.470342 seconds
+
+Trials: 319, Time: 0.470178 seconds
+
+Trials: 320, Time: 0.366331 seconds
+
+Trials: 321, Time: 0.312091 seconds
+
+Trials: 322, Time: 0.325104 seconds
+
+Trials: 323, Time: 0.341625 seconds
+
+Trials: 324, Time: 0.322927 seconds
+
+Trials: 325, Time: 0.311248 seconds
+
+Trials: 326, Time: 0.350476 seconds
+
+Trials: 327, Time: 0.364967 seconds
+
+Trials: 328, Time: 0.415177 seconds
+
+Trials: 329, Time: 0.397125 seconds
+
+Trials: 330, Time: 0.433301 seconds
+
+Trials: 331, Time: 0.323703 seconds
+
+Trials: 332, Time: 0.302931 seconds
+
+Trials: 333, Time: 0.311037 seconds
+
+Trials: 334, Time: 0.498942 seconds
+
+Trials: 335, Time: 0.42422 seconds
+
+Trials: 336, Time: 0.388671 seconds
+
+Trials: 337, Time: 0.351439 seconds
+
+Trials: 338, Time: 0.32736 seconds
+
+Trials: 339, Time: 0.358403 seconds
+
+Trials: 340, Time: 0.370881 seconds
+
+Trials: 341, Time: 0.444286 seconds
+
+Trials: 342, Time: 0.430568 seconds
+
+Trials: 343, Time: 0.589333 seconds
+
+Trials: 344, Time: 0.646499 seconds
+
+Trials: 345, Time: 0.344176 seconds
+
+Trials: 346, Time: 0.324808 seconds
+
+Trials: 347, Time: 0.321747 seconds
+
+Trials: 348, Time: 0.319732 seconds
+
+Trials: 349, Time: 0.304805 seconds
+
+Trials: 350, Time: 0.363678 seconds
+
+Trials: 351, Time: 0.399973 seconds
+
+Trials: 352, Time: 0.379741 seconds
+
+Trials: 353, Time: 0.516999 seconds
+
+Trials: 354, Time: 0.546596 seconds
+
+Trials: 355, Time: 0.351122 seconds
+
+Trials: 356, Time: 0.353289 seconds
+
+Trials: 357, Time: 0.360042 seconds
+
+Trials: 358, Time: 0.387504 seconds
+
+Trials: 359, Time: 0.346524 seconds
+
+Trials: 360, Time: 0.32936 seconds
+
+Trials: 361, Time: 0.311144 seconds
+
+Trials: 362, Time: 0.319194 seconds
+
+Trials: 363, Time: 0.512881 seconds
+
+Trials: 364, Time: 0.525701 seconds
+
+Trials: 365, Time: 0.450671 seconds
+
+Trials: 366, Time: 0.430416 seconds
+
+Trials: 367, Time: 0.317063 seconds
+
+Trials: 368, Time: 0.320748 seconds
+
+Trials: 369, Time: 0.309681 seconds
+
+Trials: 370, Time: 0.545396 seconds
+
+Trials: 371, Time: 0.574609 seconds
+
+Trials: 372, Time: 0.351436 seconds
+
+Trials: 373, Time: 0.344395 seconds
+
+Trials: 374, Time: 0.309559 seconds
+
+Trials: 375, Time: 0.309691 seconds
+
+Trials: 376, Time: 0.315722 seconds
+
+Trials: 377, Time: 0.355327 seconds
+
+Trials: 378, Time: 0.356149 seconds
+
+Trials: 379, Time: 0.334172 seconds
+
+Trials: 380, Time: 0.50357 seconds
+
+Trials: 381, Time: 0.538639 seconds
+
+Trials: 382, Time: 0.30745 seconds
+
+Trials: 383, Time: 0.300786 seconds
+
+Trials: 384, Time: 0.301949 seconds
+
+Trials: 385, Time: 0.314891 seconds
+
+Trials: 386, Time: 0.3183 seconds
+
+Trials: 387, Time: 0.329741 seconds
+
+Trials: 388, Time: 0.39359 seconds
+
+Trials: 389, Time: 0.340115 seconds
+
+Trials: 390, Time: 0.316896 seconds
+
+Trials: 391, Time: 0.301854 seconds
+
+Trials: 392, Time: 0.320395 seconds
+
+Trials: 393, Time: 0.252413 seconds
+
+Trials: 394, Time: 0.42981 seconds
+
+Trials: 395, Time: 0.452498 seconds
+
+Trials: 396, Time: 0.560056 seconds
+
+Trials: 397, Time: 0.553025 seconds
+
+Trials: 398, Time: 0.443676 seconds
+
+Trials: 399, Time: 0.437425 seconds
+
+Trials: 400, Time: 0.351532 seconds
+
+Trials: 401, Time: 0.344101 seconds
+
+Trials: 402, Time: 0.380274 seconds
+
+Trials: 403, Time: 0.408736 seconds
+
+Trials: 404, Time: 0.384112 seconds
+
+Trials: 405, Time: 0.285611 seconds
+
+Trials: 406, Time: 0.295232 seconds
+
+Trials: 407, Time: 0.295702 seconds
+
+Trials: 408, Time: 0.31441 seconds
+
+Trials: 409, Time: 0.306265 seconds
+
+Trials: 410, Time: 0.297576 seconds
+
+Trials: 411, Time: 0.30985 seconds
+
+Trials: 412, Time: 0.313953 seconds
+
+Trials: 413, Time: 0.31146 seconds
+
+Trials: 414, Time: 0.382292 seconds
+
+Trials: 415, Time: 0.397031 seconds
+
+Trials: 416, Time: 0.39745 seconds
+
+Trials: 417, Time: 0.576939 seconds
+
+Trials: 418, Time: 0.578044 seconds
+
+Trials: 419, Time: 0.445643 seconds
+
+Trials: 420, Time: 0.44453 seconds
+
+Trials: 421, Time: 0.334367 seconds
+
+Trials: 422, Time: 0.365765 seconds
+
+Trials: 423, Time: 0.327862 seconds
+
+Trials: 424, Time: 0.32097 seconds
+
+Trials: 425, Time: 0.339858 seconds
+
+Trials: 426, Time: 0.528002 seconds
+
+Trials: 427, Time: 0.498635 seconds
+
+Trials: 428, Time: 0.464458 seconds
+
+Trials: 429, Time: 0.469748 seconds
+
+Trials: 430, Time: 0.336975 seconds
+
+Trials: 431, Time: 0.374701 seconds
+
+Trials: 432, Time: 0.344402 seconds
+
+Trials: 433, Time: 0.302754 seconds
+
+Trials: 434, Time: 0.304987 seconds
+
+Trials: 435, Time: 0.221157 seconds
+
+Trials: 436, Time: 0.59571 seconds
+
+Trials: 437, Time: 0.594301 seconds
+
+Trials: 438, Time: 0.378726 seconds
+
+Trials: 439, Time: 0.379637 seconds
+
+Trials: 440, Time: 0.332796 seconds
+
+Trials: 441, Time: 0.352377 seconds
+
+Trials: 442, Time: 0.326177 seconds
+
+Trials: 443, Time: 0.419674 seconds
+
+Trials: 444, Time: 0.397263 seconds
+
+Trials: 445, Time: 0.332505 seconds
+
+Trials: 446, Time: 0.30224 seconds
+
+Trials: 447, Time: 0.319714 seconds
+
+Trials: 448, Time: 0.343474 seconds
+
+Trials: 449, Time: 0.34656 seconds
+
+Trials: 450, Time: 0.357945 seconds
+
+Trials: 451, Time: 0.473036 seconds
+
+Trials: 452, Time: 0.483054 seconds
+
+Trials: 453, Time: 0.380281 seconds
+
+Trials: 454, Time: 0.310479 seconds
+
+Trials: 455, Time: 0.320238 seconds
+
+Trials: 456, Time: 0.307541 seconds
+
+Trials: 457, Time: 0.320811 seconds
+
+Trials: 458, Time: 0.289867 seconds
+
+Trials: 459, Time: 0.379405 seconds
+
+Trials: 460, Time: 0.367876 seconds
+
+Trials: 461, Time: 0.384639 seconds
+
+Trials: 462, Time: 0.375125 seconds
+
+Trials: 463, Time: 0.356278 seconds
+
+Trials: 464, Time: 0.380915 seconds
+
+Trials: 465, Time: 0.358661 seconds
+
+Trials: 466, Time: 0.2595 seconds
+
+Trials: 467, Time: 0.495633 seconds
+
+Trials: 468, Time: 0.478875 seconds
+
+Trials: 469, Time: 0.361103 seconds
+
+Trials: 470, Time: 0.335328 seconds
+
+Trials: 471, Time: 0.426432 seconds
+
+Trials: 472, Time: 0.391375 seconds
+
+Trials: 473, Time: 0.386063 seconds
+
+Trials: 474, Time: 0.539105 seconds
+
+Trials: 475, Time: 0.54163 seconds
+
+Trials: 476, Time: 0.345605 seconds
+
+Trials: 477, Time: 0.348466 seconds
+
+Trials: 478, Time: 0.292455 seconds
+
+Trials: 479, Time: 0.315023 seconds
+
+Trials: 480, Time: 0.297117 seconds
+
+Trials: 481, Time: 0.361735 seconds
+
+Trials: 482, Time: 0.358744 seconds
+
+Trials: 483, Time: 0.358379 seconds
+
+Trials: 484, Time: 0.416268 seconds
+
+Trials: 485, Time: 0.436256 seconds
+
+Trials: 486, Time: 0.391069 seconds
+
+Trials: 487, Time: 0.369017 seconds
+
+Trials: 488, Time: 0.374646 seconds
+
+Trials: 489, Time: 0.603802 seconds
+
+Trials: 490, Time: 0.578 seconds
+
+Trials: 491, Time: 0.439935 seconds
+
+Trials: 492, Time: 0.447413 seconds
+
+Trials: 493, Time: 0.427831 seconds
+
+Trials: 494, Time: 0.373773 seconds
+
+Trials: 495, Time: 0.447864 seconds
+
+Trials: 496, Time: 0.44002 seconds
+
+Trials: 497, Time: 0.349148 seconds
+
+Trials: 498, Time: 0.330869 seconds
+
+Trials: 499, Time: 0.314748 seconds
+
+Trials: 500, Time: 0.590671 seconds
