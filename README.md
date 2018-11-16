@@ -4,3 +4,4 @@ Group members:
 
 Gregory Vasquez gvasquez11@csu.fullerton.edu
 Alex Chuoy alexchuoy@csu.fullerton.edu
+Paul Rodriguez senorrodington@csu.fullerton.edu
